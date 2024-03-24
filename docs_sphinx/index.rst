@@ -19,4 +19,5 @@ It covers different topics such as programming, signal processing, data secience
 
    Signal_processing_toolbox documentation <https://neby68.github.io/Signal_processing_toolbox/>
    Electrical and neural signal processing examples documentation <https://neby68.github.io/electrical_and_neural_signal_processing/>
+   Data science documentation <https://neby68.github.io/Data_science/>
 
